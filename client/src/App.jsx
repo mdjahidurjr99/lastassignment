@@ -6,7 +6,6 @@ import ContactPage from './pages/ContactPage';
 import TeamPage from './pages/TeamPage';
 import AboutPage from './pages/AboutPage';
 import LoginPage from "./pages/LoginPage";
-import PrivateRoute from "./component/PrivateRoute/PrivateRoute";
 import DashBoardPage from "./pages/DashBoardPage";
 import BlogDashBoard from "./pages/BlogDashBoard";
 import TeamDashBoard from './pages/TeamDashBoard';
