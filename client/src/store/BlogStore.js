@@ -1,7 +1,7 @@
 import { create } from "zustand";
 import axios from "axios";
 
-const BASE_URL = "http://lastassignment.vercel.app/api/v1";
+const BASE_URL = "https://lastassignment.vercel.app/api/v1";
 
 const BlogStore = create((set) => ({
   blogList:null,
